@@ -1,0 +1,44 @@
+body{
+	background: url(../img/try.png) no-repeat center;
+	-webkit-background-size: cover;
+}
+
+#calculator{
+	height: 400px;
+	width: 400px;
+	background: #cccccc;
+	border-radius: 10px;
+	margin: 100px 0px 0px 450px;	
+}
+
+#displaybox{
+	margin: 20px;
+	height: 50px;
+	width: 360px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: right;
+}
+
+#buttons input {
+	margin: 15px 0px 5px 20px;
+	height: 50px;
+	width: 53px;
+	font-size: 16px;
+	border-radius: 5px;
+	display: table-cell;	
+}
+
+#title{
+	font-size: 44px;
+	font-family: Sans-serif;
+	color: #ffffff;
+	margin-top: 80px;
+	margin-bottom: -20px;
+	margin-left: 500px;
+}
+
+#table{
+	display: table;
+}
+
